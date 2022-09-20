@@ -2,6 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on anything
+- I just graduated from San Diego State University
 - 📫 How to reach out by email: quachdean@yahoo.com
 
 <!---
